@@ -3,7 +3,7 @@ package winrmcp
 import (
 	"encoding/xml"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"strconv"
 
